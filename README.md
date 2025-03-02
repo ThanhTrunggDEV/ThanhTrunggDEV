@@ -4,6 +4,7 @@
 - 📫 How to reach me:
 * Zalo: 0971632201
 * Email: trungff07@gmail.com
+- ⚡ Slogan: Gương Kia Ngự Ở Màn Hình Thế Gian Ai Dốt Lập Trình Như Ta !!!  
 - ⚡ Fun fact: Nothing =))
 
 <!---
