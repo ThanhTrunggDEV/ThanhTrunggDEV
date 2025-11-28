@@ -66,9 +66,10 @@
 
   <br>
 
-  <!--a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanhTrunggDEV&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" alt="GitHub Streak" />
-  </a-->
+<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+  <img src="https://streak-stats.demolab.com?user=ThanhTrunggDEV&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" />
+</a>
+
 
 </div>
 
@@ -77,7 +78,7 @@
 ### 🐍 Fun Fact: Commit Snake
 <!--div align="center">
   <img src="https://github.com/ThanhTrunggDEV/ThanhTrunggDEV/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+</div-->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
