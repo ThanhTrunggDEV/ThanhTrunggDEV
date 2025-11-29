@@ -36,12 +36,36 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</div>
+
+---
+
+### 🚀 Tech Universe
+<div align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</div>
+
+
 ---
 
 ### 🔧 My Stack & Tools
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,cs,python,react,docker,nginx,mysql,git,vscode,linux&perline=10" />
+</div>
+
+---
+
+### 📊 GitHub Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThanhTrunggDEV&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
