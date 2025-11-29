@@ -17,7 +17,7 @@
 
 ### 💻 About Me
 
-* 🎯 **Current Focus:** Developing scalable microservices using **Node.js** and **Go**.
+* 🎯 **Current Focus:** Developing application using **.Net Core** and **Python**.
 * 📚 **Learning Next:** Deep diving into **Cloud Architectures (AWS/GCP)** and **DevOps**.
 * 🤝 **Collaboration:** I'm open to discussing ideas related to **AI/ML integration**.
 
@@ -28,10 +28,10 @@
   <a href="https://github.com/ThanhTrunggDEV">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:trungff07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+  <a href="https://linkedin.com/in/nguyễn-thành-trung-4732a8285">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
@@ -41,7 +41,7 @@
 ### 🔧 My Stack & Tools
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,go,java,react,nextjs,express,nodejs,docker,kubernetes,aws,gcp,nginx,mongodb,mysql,git,vscode,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,cs,python,react,docker,nginx,mysql,git,vscode,linux&perline=10" />
 </div>
 
 ---
@@ -57,11 +57,11 @@
   <br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThanhTrunggDEV&show_icons=true&theme=synthwave&hide_border=true&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThanhTrunggDEV&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhTrunggDEV&layout=compact&theme=synthwave&hide_border=true&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhTrunggDEV&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
   </a>
 
   <br>
@@ -74,11 +74,11 @@
 </div>
 
 ---
-<!--
+
 ### 🐍 Fun Fact: Commit Snake
-<!--div align="center">
+<div align="center">
   <img src="https://github.com/ThanhTrunggDEV/ThanhTrunggDEV/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div-->
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
