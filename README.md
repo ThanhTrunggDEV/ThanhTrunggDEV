@@ -42,11 +42,9 @@
           <a href="https://github.com/denvercoder1/github-readme-streak-stats">
             <img src="https://streak-stats.demolab.com?user=ThanhTrunggDEV&theme=dark&hide_border=true&border_radius=5&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" />
           </a>
-          <!-- 
-          Note: GitHub Readme Stats are currently paused by the provider. 
-          Uncomment when service is restored.
-          <img src="https://github-readme-stats.vercel.app/api?username=ThanhTrunggDEV&show_icons=true&theme=synthwave&hide_border=true" />
-          -->
+          <br/>
+          <br/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThanhTrunggDEV&theme=dark" alt="Top Languages" />
         </div>
       </td>
     </tr>
@@ -85,6 +83,17 @@
 
 <div align="center">
   <img src="https://github.com/ThanhTrunggDEV/ThanhTrunggDEV/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
+
+### ⚡ Fun & Inspiration
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&hide_border=true" width="90%" />
+  <br/>
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="90%" />
 </div>
 
 <div align="center">
