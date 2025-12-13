@@ -26,7 +26,7 @@
         <br/>
         <div align="center">
           <a href="https://github.com/ThanhTrunggDEV">
-            <img src="https://img.shields.io/badge/FaceBook-181717?style=for-the-badge&logo=github&logoColor=white" />
+            <img src="https://img.shields.io/badge/FaceBook-181717?style=for-the-badge&logo=facebook&logoColor=white" />
           </a>
           <a href="https://linkedin.com/in/nguyễn-thành-trung-4732a8285">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
